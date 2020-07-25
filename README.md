@@ -1,2 +1,2 @@
 # Equity-Research
-Code contributes to fundamental financial analysis, visualization, presentations, and pitches of long/short equities. Moreover, tools inlcude a dashboard of U.S Public Equities Short-Interest position organized by sector over time. Finally, this repository contains research for Sell-Side advisory pitches across various coverage sectors.
+This section contains code examples of typical fundamental,technical, quantitative, and custom ML methologies using various financial markets data. The goal is to demonstrate subject matter expertise on traditional porfolio management theory, recreate experiments from research materials, and most importantly, help me manage my personal portfolio.
